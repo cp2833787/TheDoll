@@ -1,0 +1,435 @@
+﻿Log file open, 10/10/18 12:01:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DAGD300Assignment
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.194670
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.195s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files (x86)/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.10-16.01.31:868][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.10-16.01.31:869][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.10-16.01.31:895][  0]LogHAL: Display: Platform has ~ 8 GB [8526880768 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.10-16.01.31:895][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.10-16.01.31:895][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.10-16.01.31:895][  0]LogInit: Computer: DESKTOP-EEGEEHC
+[2018.10.10-16.01.31:895][  0]LogInit: User: ChristopherP
+[2018.10.10-16.01.31:895][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.10-16.01.31:895][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2018.10.10-16.01.31:896][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.10-16.01.31:896][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.10-16.01.31:896][  0]LogMemory: Process Physical Memory: 100.27 MB used, 100.27 MB peak
+[2018.10.10-16.01.31:896][  0]LogMemory: Process Virtual Memory: 90.91 MB used, 90.91 MB peak
+[2018.10.10-16.01.31:896][  0]LogMemory: Physical Memory: 5499.06 MB used,  2632.81 MB free, 8131.87 MB total
+[2018.10.10-16.01.31:896][  0]LogMemory: Virtual Memory: 4617.35 MB used,  2632.81 MB free, 134217728.00 MB total
+[2018.10.10-16.01.31:920][  0]LogInit: Using OS detected language (en-US).
+[2018.10.10-16.01.31:920][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.10-16.01.31:921][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.10-16.01.32:337][  0]LogStreaming: Display: Took  0.417s to InitEngineTextLocalization.
+[2018.10.10-16.01.32:337][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.10-16.01.32:372][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.10-16.01.32:372][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.10-16.01.32:784][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.10-16.01.32:784][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.10-16.01.32:853][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.10.10-16.01.32:853][  0]LogD3D11RHI:       8088/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.10-16.01.32:856][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.10-16.01.32:856][  0]LogD3D11RHI:       0/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.10-16.01.32:856][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.10-16.01.32:863][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.10-16.01.32:863][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.10-16.01.32:863][  0]LogWindows: EnumDisplayDevices:
+[2018.10.10-16.01.32:863][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.10.10-16.01.32:864][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.10.10-16.01.32:864][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.10-16.01.32:864][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.10-16.01.32:864][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.10-16.01.32:864][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.10.10-16.01.32:864][  0]LogD3D11RHI:   Driver Version: 416.16 (internal:25.21.14.1616, unified:416.16)
+[2018.10.10-16.01.32:864][  0]LogD3D11RHI:      Driver Date: 10-2-2018
+[2018.10.10-16.01.32:864][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.10.10-16.01.32:907][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.10-16.01.32:935][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.10-16.01.32:987][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (F:/UnrealProjects/DAGD300Assignment/Intermediate/Shaders/WorkingDirectory/13604/).
+[2018.10.10-16.01.32:987][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ChristopherP/AppData/Local/Temp/UnrealShaderWorkingDir/3780882E4DD920ED3AAD22B99D8C86C8/'.
+[2018.10.10-16.01.33:305][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.10-16.01.33:321][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.10-16.01.33:335][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.10-16.01.33:349][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.10-16.01.33:363][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.10-16.01.33:376][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.10-16.01.33:390][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.10-16.01.33:404][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.10-16.01.33:411][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.10-16.01.33:497][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.10-16.01.33:561][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.10-16.01.33:561][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.10-16.01.33:586][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.10-16.01.33:586][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.10-16.01.33:602][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.10-16.01.33:615][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.10-16.01.33:629][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.10-16.01.33:644][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.10-16.01.33:653][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.10-16.01.33:653][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.10-16.01.33:713][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.10-16.01.33:714][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.10-16.01.33:714][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.10-16.01.34:478][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.10-16.01.34:549][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/ChristopherP/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.10-16.01.34:550][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ChristopherP/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.10-16.01.34:550][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/UnrealProjects/DAGD300Assignment/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.10-16.01.34:550][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.10-16.01.34:550][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/UnrealProjects/DAGD300Assignment/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.10-16.01.34:550][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.10-16.01.34:565][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.10-16.01.34:578][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ChristopherP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.10-16.01.34:578][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.10-16.01.34:578][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.10-16.01.34:599][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.10-16.01.34:600][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.10-16.01.34:602][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.10-16.01.34:704][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.10.10-16.01.35:042][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.10-16.01.35:190][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.10-16.01.35:194][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.10-16.01.35:194][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.10-16.01.35:194][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.10-16.01.35:194][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.10-16.01.35:217][  0]LogNetVersion: DAGD300Assignment 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 724653226)
+[2018.10.10-16.01.35:940][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.180866 seconds
+[2018.10.10-16.01.35:947][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.10-16.01.35:947][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.10-16.01.35:947][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.10-16.01.37:401][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.10-16.01.37:414][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.10-16.01.37:586][  0]SourceControl: Source control is disabled
+[2018.10.10-16.01.37:586][  0]SourceControl: Source control is disabled
+[2018.10.10-16.01.37:589][  0]SourceControl: Source control is disabled
+[2018.10.10-16.01.37:593][  0]SourceControl: Source control is disabled
+[2018.10.10-16.01.37:779][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.10-16.01.37:876][  0]LogOcInput: OculusInput pre-init called
+[2018.10.10-16.01.37:947][  0]LogEngine: Initializing Engine...
+[2018.10.10-16.01.37:948][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.10-16.01.37:950][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.10-16.01.37:950][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.10-16.01.37:951][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.10-16.01.37:951][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.10-16.01.38:216][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.10-16.01.38:230][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.10-16.01.38:311][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.10-16.01.38:353][  0]LogInit: FAudioDevice initialized.
+[2018.10.10-16.01.38:353][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.10-16.01.38:466][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/ChristopherP/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.10-16.01.38:473][  0]LogInit: Texture streaming: Enabled
+[2018.10.10-16.01.38:493][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.10-16.01.38:593][  0]LogInit: Transaction tracking system initialized
+[2018.10.10-16.01.38:616][  0]BlueprintLog: New page: Editor Load
+[2018.10.10-16.01.38:696][  0]LocalizationService: Localization service is disabled
+[2018.10.10-16.01.39:150][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.10-16.01.39:150][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.10-16.01.39:168][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProjects/DAGD300Assignment/Content/' took 0.02s
+[2018.10.10-16.01.39:169][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.10-16.01.39:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.10-16.01.39:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.10-16.01.39:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.10-16.01.39:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.10-16.01.39:307][  0]SourceControl: Source control is disabled
+[2018.10.10-16.01.39:307][  0]Cmd: MAP LOAD FILE="F:/UnrealProjects/DAGD300Assignment/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.10-16.01.39:356][  0]LightingResults: New page: Lighting Build
+[2018.10.10-16.01.39:358][  0]MapCheck: New page: Map Check
+[2018.10.10-16.01.39:358][  0]LightingResults: New page: Lighting Build
+[2018.10.10-16.01.44:590][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.10.10-16.01.45:509][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.10-16.01.45:567][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.10-16.01.45:667][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 100.254ms to complete.
+[2018.10.10-16.01.45:667][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 6.360
+[2018.10.10-16.01.46:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.01.46:816][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.01.46:823][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.01.46:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.10-16.01.46:882][  0]LogCollectionManager: Loaded 0 collections in 0.001866 seconds
+[2018.10.10-16.01.47:068][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProjects/DAGD300Assignment/Saved/Collections/' took 0.01s
+[2018.10.10-16.01.47:069][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProjects/DAGD300Assignment/Content/Developers/ChristopherP/Collections/' took 0.01s
+[2018.10.10-16.01.47:069][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProjects/DAGD300Assignment/Content/Collections/' took 0.01s
+[2018.10.10-16.01.47:069][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.10-16.01.47:080][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2572 classes and 603 folders.
+[2018.10.10-16.01.47:203][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.10-16.01.48:309][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.10-16.01.48:362][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.10.10-16.01.49:253][  0]LogSlate: Took 0.000491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.10-16.01.49:255][  0]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.10-16.01.49:306][  0]LogSlate: Took 0.018521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.10-16.01.49:667][  0]LogRenderer: Reallocating scene render targets to support 1216x596 Format 10 NumSamples 1 (Frame:1).
+[2018.10.10-16.01.50:097][  0]LogSlate: Took 0.009846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.10-16.01.50:342][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.10-16.01.50:342][  0]LogLoad: (Engine Initialization) Total time: 21.11 seconds
+[2018.10.10-16.01.50:342][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.10-16.01.50:383][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.10-16.01.50:460][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.10-16.01.50:615][  1]LogAssetRegistry: Asset discovery search completed in 15.9339 seconds
+[2018.10.10-16.01.50:617][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.10-16.01.50:617][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2018.10.10-16.02.24:238][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.10-16.02.31:949][902]LogSlate: Took 0.000420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.10-16.02.31:962][902]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GUI/TheDollHUD.TheDollHUD
+[2018.10.10-16.02.33:035][902]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.10-16.02.34:555][902]LogSlate: Took 0.013975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.10-16.02.34:775][903]LogSlate: Took 0.014572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.10-16.03.05:538][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/TheDollHUD" FILE="F:/UnrealProjects/DAGD300Assignment/Content/GUI/TheDollHUD.uasset" SILENT=true
+[2018.10.10-16.03.06:005][664]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/TheDollHUD1F256C5C4B352AB45DD932BCC19E0CAE.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Content/GUI/TheDollHUD.uasset'
+[2018.10.10-16.05.18:492][224]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.10-16.05.27:930][336]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SaveGame/SaveSystem.SaveSystem
+[2018.10.10-16.06.57:062][134]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2018.10.10-16.07.42:162][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGame/SaveSystem" FILE="F:/UnrealProjects/DAGD300Assignment/Content/SaveGame/SaveSystem.uasset" SILENT=true
+[2018.10.10-16.07.42:167][128]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/SaveSystem845130894565EB79E801D09CF604B11A.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Content/SaveGame/SaveSystem.uasset'
+[2018.10.10-16.07.50:038][905]LogSlate: Took 0.021179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.10-16.07.55:277][437]LogClass: Warning: Property NewVar_0 of NewVar_0 has a struct type mismatch (tag Transform != prop Vector) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.10.10-16.09.55:137][474]LogClass: Warning: Type mismatch in NewVar_0 of SKEL_SaveSystem_C - Previous (StructProperty) Current(StrProperty) for package:  FObjectReader
+[2018.10.10-16.11.56:234][628]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.10-16.12.05:933][660]BlueprintLog: New page: Compile SaveSystem
+[2018.10.10-16.12.06:741][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGame/SaveSystem" FILE="F:/UnrealProjects/DAGD300Assignment/Content/SaveGame/SaveSystem.uasset" SILENT=true
+[2018.10.10-16.12.06:753][724]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/SaveSystem47C69D7A4E5825A0088D6C98D3D959DD.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Content/SaveGame/SaveSystem.uasset'
+[2018.10.10-16.12.40:835][214]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.034
+[2018.10.10-16.12.40:849][214]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SaveGame/SaveSystem] ([1] browsable assets)...
+[2018.10.10-16.12.40:849][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/SaveGame/SaveSystem]
+[2018.10.10-16.12.40:849][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGame/SaveSystem" FILE="F:/UnrealProjects/DAGD300Assignment/Saved/Autosaves/Game/SaveGame/SaveSystem_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.10-16.12.40:859][214]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/SaveSystem_Auto129647B9947A1F440762D258A8C2F1DE5.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Saved/Autosaves/Game/SaveGame/SaveSystem_Auto1.uasset'
+[2018.10.10-16.12.40:861][214]LogFileHelpers: Auto-saving content packages took 0.026
+[2018.10.10-16.14.40:847][ 34]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.10-16.18.27:717][600]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.10.10-16.18.30:679][794]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.10.10-16.18.30:684][794]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.10.10-16.19.57:151][341]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.10.10-16.19.57:784][341]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:SpawnPlayer'!
+[2018.10.10-16.20.22:337][177]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.10.10-16.20.22:563][177]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:SpawnPlayer'!
+[2018.10.10-16.21.06:000][477]LogEditorTransaction: Undo Break Pin Links
+[2018.10.10-16.21.33:226][630]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.10.10-16.21.33:457][630]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:SpawnPlayer'!
+[2018.10.10-16.23.00:163][182]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.10.10-16.23.00:402][182]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:SpawnPlayer'!
+[2018.10.10-16.23.00:754][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/SideScrollerCharacter" FILE="F:/UnrealProjects/DAGD300Assignment/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" SILENT=true
+[2018.10.10-16.23.01:195][200]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/SideScrollerCharacter0E2D3CA842E9DA5D5D297AA82C94B7A1.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.10.10-16.23.40:894][954]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/SideScrollerExampleMap_Auto2F06C4DAF4996D77103AC2B93F8AA5F2A.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto2.umap'
+[2018.10.10-16.23.40:918][954]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.736
+[2018.10.10-16.23.40:918][954]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.736
+[2018.10.10-16.23.40:921][954]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SaveGame/SaveSystem] ([1] browsable assets)...
+[2018.10.10-16.23.40:921][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/SaveGame/SaveSystem]
+[2018.10.10-16.23.40:922][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGame/SaveSystem" FILE="F:/UnrealProjects/DAGD300Assignment/Saved/Autosaves/Game/SaveGame/SaveSystem_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.10.10-16.23.40:930][954]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/SaveSystem_Auto2614574014026AE2E52085E824A45514F.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Saved/Autosaves/Game/SaveGame/SaveSystem_Auto2.uasset'
+[2018.10.10-16.23.40:932][954]LogFileHelpers: Auto-saving content packages took 0.013
+[2018.10.10-16.23.53:698][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/SideScrollerCharacter" FILE="F:/UnrealProjects/DAGD300Assignment/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" SILENT=true
+[2018.10.10-16.23.53:766][699]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/SideScrollerCharacter9DCDFA894C89D985167CB98F46A90B6B.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.10.10-16.23.55:469][821]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:SpawnPlayer'!
+[2018.10.10-16.24.06:694][ 33]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/GUI/MainMenu.MainMenu
+[2018.10.10-16.26.06:054][494]LogSlate: Took 0.060409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.10.10-16.29.54:597][192]BlueprintLog: New page: Compile MainMenu
+[2018.10.10-16.33.44:192][988]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.045
+[2018.10.10-16.33.44:196][988]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GUI/MainMenu] ([1] browsable assets)...
+[2018.10.10-16.33.44:196][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/MainMenu]
+[2018.10.10-16.33.44:196][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/MainMenu" FILE="F:/UnrealProjects/DAGD300Assignment/Saved/Autosaves/Game/GUI/MainMenu_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.10.10-16.33.44:328][988]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/MainMenu_Auto387B784FD4B9BBBC0CB9658870199F967.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Saved/Autosaves/Game/GUI/MainMenu_Auto3.uasset'
+[2018.10.10-16.33.44:360][988]LogFileHelpers: Auto-saving content packages took 0.167
+[2018.10.10-17.13.17:106][ 73]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UnrealProjects/DAGD300Assignment/ButtonLoad.png)
+[2018.10.10-17.13.17:371][ 73]LogTexture: Display: Building textures: ButtonLoad (BGRA8, 454X195)
+[2018.10.10-17.13.17:569][ 73]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UnrealProjects/DAGD300Assignment/ButtonNew.png)
+[2018.10.10-17.13.17:577][ 73]LogTexture: Display: Building textures: ButtonNew (BGRA8, 454X195)
+[2018.10.10-17.13.17:594][ 73]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UnrealProjects/DAGD300Assignment/ButtonOptions.png)
+[2018.10.10-17.13.17:608][ 73]LogTexture: Display: Building textures: ButtonOptions (BGRA8, 454X195)
+[2018.10.10-17.13.17:625][ 73]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UnrealProjects/DAGD300Assignment/ButtonPlay.png)
+[2018.10.10-17.13.17:632][ 73]LogTexture: Display: Building textures: ButtonPlay (BGRA8, 454X195)
+[2018.10.10-17.13.32:733][213]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UnrealProjects/DAGD300Assignment/ButtonExit.png)
+[2018.10.10-17.13.32:747][213]LogTexture: Display: Building textures: ButtonExit (BGRA8, 454X195)
+[2018.10.10-17.13.42:573][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/ButtonExit" FILE="F:/UnrealProjects/DAGD300Assignment/Content/GUI/ButtonExit.uasset" SILENT=true
+[2018.10.10-17.13.42:640][927]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/ButtonExit68A981D544A6BB2F1A643C98739C30A6.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Content/GUI/ButtonExit.uasset'
+[2018.10.10-17.13.42:660][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/ButtonLoad" FILE="F:/UnrealProjects/DAGD300Assignment/Content/GUI/ButtonLoad.uasset" SILENT=true
+[2018.10.10-17.13.42:670][927]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/ButtonLoad7271849E4EA9648C747A02A8197DEE9B.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Content/GUI/ButtonLoad.uasset'
+[2018.10.10-17.13.42:689][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/ButtonNew" FILE="F:/UnrealProjects/DAGD300Assignment/Content/GUI/ButtonNew.uasset" SILENT=true
+[2018.10.10-17.13.42:700][927]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/ButtonNew74AAF472444385942AA420BBC376C447.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Content/GUI/ButtonNew.uasset'
+[2018.10.10-17.13.42:711][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/ButtonOptions" FILE="F:/UnrealProjects/DAGD300Assignment/Content/GUI/ButtonOptions.uasset" SILENT=true
+[2018.10.10-17.13.42:730][927]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/ButtonOptionsE492AE3142F9FB1CE61C67AD246EB037.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Content/GUI/ButtonOptions.uasset'
+[2018.10.10-17.13.42:741][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/ButtonPlay" FILE="F:/UnrealProjects/DAGD300Assignment/Content/GUI/ButtonPlay.uasset" SILENT=true
+[2018.10.10-17.13.42:752][927]LogSavePackage: Moving 'F:/UnrealProjects/DAGD300Assignment/Saved/ButtonPlayD7F1A398484FD91E7CD025AE650DFA53.tmp' to 'F:/UnrealProjects/DAGD300Assignment/Content/GUI/ButtonPlay.uasset'
+[2018.10.10-17.13.43:749][ 37]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/GUI/ButtonPlay.ButtonPlay
+[2018.10.10-17.13.43:978][ 37]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.10.10-17.13.50:304][563]LogSlate: Window 'ButtonPlay' being destroyed
+[2018.10.10-17.13.50:308][563]LogSlate: Window 'ButtonPlay' being destroyed
+[2018.10.10-17.13.50:325][563]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.10-17.13.54:037][916]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/GUI/MainMenu.MainMenu
+[2018.10.10-17.14.40:036][685]LogEditorTransaction: Undo Resize Widget
+[2018.10.10-17.14.41:931][745]LogEditorTransaction: Undo Resize Widget
+[2018.10.10-17.16.52:539][329]LogSlate: Window 'Message' being destroyed
+[2018.10.10-17.16.52:544][329]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UnrealProjects/DAGD300Assignment/ButtonExit.png)
+[2018.10.10-17.16.54:802][329]LogSlate: Window 'Message' being destroyed
+[2018.10.10-17.16.54:814][329]LogTexture: Display: Building textures: ButtonExit (BGRA8, 200X86)
+[2018.10.10-17.16.54:828][329]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UnrealProjects/DAGD300Assignment/ButtonLoad.png)
+[2018.10.10-17.16.54:841][329]LogTexture: Display: Building textures: ButtonLoad (BGRA8, 200X86)
+[2018.10.10-17.16.54:854][329]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UnrealProjects/DAGD300Assignment/ButtonNew.png)
+[2018.10.10-17.16.54:860][329]LogTexture: Display: Building textures: ButtonNew (BGRA8, 200X86)
+[2018.10.10-17.16.54:874][329]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UnrealProjects/DAGD300Assignment/ButtonOptions.png)
+[2018.10.10-17.16.54:880][329]LogTexture: Display: Building textures: ButtonOptions (BGRA8, 200X86)
+[2018.10.10-17.16.54:893][329]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UnrealProjects/DAGD300Assignment/ButtonPlay.png)
+[2018.10.10-17.16.54:898][329]LogTexture: Display: Building textures: ButtonPlay (BGRA8, 200X86)
+[2018.10.10-17.16.55:113][331]LogWindows: Windows GetLastError: The operation completed successfully. (0)
